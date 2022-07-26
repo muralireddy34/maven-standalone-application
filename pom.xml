@@ -22,7 +22,7 @@
 		<sonar.login>admin</sonar.login>
 		<sonar.password>Murali@1997</sonar.password>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-		<sonar.login>2ffd274ca5d86882ddd53cfdca0de559be57873c</sonar.login>
+		
 	</properties>
 
 	<dependencies>
